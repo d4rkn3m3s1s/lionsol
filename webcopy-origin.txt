@@ -1,0 +1,364 @@
+Uri: https://goatonsol.vip/
+File Name: C:\Downloaded Web Sites\goatonsol.vip\index.htm
+Content Type: text/html
+
+Uri: https://goatonsol.vip/?feed=comments-rss2
+File Name: C:\Downloaded Web Sites\goatonsol.vip\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://goatonsol.vip/?feed=rss2
+File Name: C:\Downloaded Web Sites\goatonsol.vip\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://goatonsol.vip/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fgoatonsol.vip%2F
+File Name: C:\Downloaded Web Sites\goatonsol.vip\index-2.php
+Content Type: application/json
+
+Uri: https://goatonsol.vip/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fgoatonsol.vip%2F&format=xml
+File Name: C:\Downloaded Web Sites\goatonsol.vip\index-3.php
+Content Type: text/xml
+
+Uri: https://goatonsol.vip/index.php?rest_route=/
+File Name: C:\Downloaded Web Sites\goatonsol.vip\index.php
+Content Type: application/json
+
+Uri: https://goatonsol.vip/index.php?rest_route=/wp/v2/pages/24
+File Name: C:\Downloaded Web Sites\goatonsol.vip\index-1.php
+Content Type: application/json
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.20.0
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.20.0
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.20.0
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor-pro/assets/js/page-transitions.min.js?ver=3.20.0
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor-pro\assets\js\page-transitions.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.20.0
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor-pro/assets/lib/instant-page/instant-page.min.js?ver=3.20.0
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor-pro\assets\lib\instant-page\instant-page.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.20.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.20.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.20.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/as-de-luz-arcoiris-about-1024x226.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\as-de-luz-arcoiris-about-1024x226.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/as-de-luz-arcoiris-about-1536x339.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\as-de-luz-arcoiris-about-1536x339.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/as-de-luz-arcoiris-about-2048x452.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\as-de-luz-arcoiris-about-2048x452.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/as-de-luz-arcoiris-about-300x66.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\as-de-luz-arcoiris-about-300x66.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/as-de-luz-arcoiris-about-768x170.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\as-de-luz-arcoiris-about-768x170.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/as-de-luz-arcoiris-about.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\as-de-luz-arcoiris-about.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/boton-phantom.svg
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\boton-phantom.svg
+Content Type: image/svg+xml
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/cabeza-cabra-hero-237x300.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\cabeza-cabra-hero-237x300.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/cabeza-cabra-hero.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\cabeza-cabra-hero.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/cabra-completa-about-300x225.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\cabra-completa-about-300x225.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/cabra-completa-about.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\cabra-completa-about.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/fondo-eclipse-luna-hero-1348x1536.jpg
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\fondo-eclipse-luna-hero-1348x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/fondo-eclipse-luna-hero-1797x2048.jpg
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\fondo-eclipse-luna-hero-1797x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/fondo-eclipse-luna-hero-263x300.jpg
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\fondo-eclipse-luna-hero-263x300.jpg
+Content Type: image/jpeg
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/fondo-eclipse-luna-hero-768x875.jpg
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\fondo-eclipse-luna-hero-768x875.jpg
+Content Type: image/jpeg
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/fondo-eclipse-luna-hero-899x1024.jpg
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\fondo-eclipse-luna-hero-899x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/fondo-eclipse-luna-hero.jpg
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\fondo-eclipse-luna-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/fondo-lentes-howtobuy-354-scaled.jpg
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\fondo-lentes-howtobuy-354-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/grafico-pastel-cabra-tokenomics-150x150.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\grafico-pastel-cabra-tokenomics-150x150.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/grafico-pastel-cabra-tokenomics-300x300.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\grafico-pastel-cabra-tokenomics-300x300.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/grafico-pastel-cabra-tokenomics.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\grafico-pastel-cabra-tokenomics.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/idmgPNn6-y-1024x294.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\idmgPNn6-y-1024x294.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/idmgPNn6-y-1536x441.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\idmgPNn6-y-1536x441.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/idmgPNn6-y-300x86.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\idmgPNn6-y-300x86.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/idmgPNn6-y-768x221.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\idmgPNn6-y-768x221.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/idmgPNn6-y.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\idmgPNn6-y.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/iso-logo-goat.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\iso-logo-goat.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/isologo-cabra-footer-2-1024x821.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\isologo-cabra-footer-2-1024x821.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/isologo-cabra-footer-2-300x241.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\isologo-cabra-footer-2-300x241.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/isologo-cabra-footer-2-768x616.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\isologo-cabra-footer-2-768x616.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/isologo-cabra-footer-2.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\isologo-cabra-footer-2.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/lentes-boton.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\lentes-boton.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/letras-goat-1024x362.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\letras-goat-1024x362.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/letras-goat-300x106.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\letras-goat-300x106.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/letras-goat-768x272.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\letras-goat-768x272.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/letras-goat.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\letras-goat.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/logo-goat-texto.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\logo-goat-texto.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/logo-Raydium.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\logo-Raydium.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/logo-solana.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\logo-solana.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/logo-solscan.svg
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\logo-solscan.svg
+Content Type: image/svg+xml
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/luna-about.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\luna-about.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/luna-triangulo-about-150x150.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\luna-triangulo-about-150x150.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/luna-triangulo-about-300x300.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\luna-triangulo-about-300x300.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/luna-triangulo-about.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\luna-triangulo-about.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/luz-arcoiris-hero-2-1024x139.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\luz-arcoiris-hero-2-1024x139.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/luz-arcoiris-hero-2-1536x209.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\luz-arcoiris-hero-2-1536x209.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/luz-arcoiris-hero-2-300x41.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\luz-arcoiris-hero-2-300x41.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/luz-arcoiris-hero-2-768x105.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\luz-arcoiris-hero-2-768x105.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/luz-arcoiris-hero-2.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\luz-arcoiris-hero-2.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/2024/03/solana-goat.png
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\2024\03\solana-goat.png
+Content Type: image/png
+
+Uri: https://goatonsol.vip/wp-content/uploads/elementor/css/global.css?ver=1710606572
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/uploads/elementor/css/post-24.css?ver=1710967801
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\elementor\css\post-24.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/uploads/elementor/css/post-6.css?ver=1710606572
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/uploads/elementor/css/post-75.css?ver=1710967762
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\elementor\css\post-75.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-content/uploads/elementor/css/post-86.css?ver=1710944622
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-content\uploads\elementor\css\post-86.css
+Content Type: text/css
+
+Uri: https://goatonsol.vip/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\goatonsol.vip\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://goatonsol.vip/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\goatonsol.vip\xmlrpc.php
+Content Type: text/xml
+
